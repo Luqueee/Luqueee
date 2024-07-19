@@ -12,7 +12,7 @@
 
 <br>
 <h3 align="center">Technologies that I know👨🏻‍💻 </h3>
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,discord,github,linux,py,vscode&perline=14" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,tailwind,github,linux,py,vscode&perline=14" /></p>
 
 <h3 align="center">I'm currently learning</h1>
 <p align="center" ><img align="center" src="https://skillicons.dev/icons?i=css,js,ts,astro,react" /></p>
