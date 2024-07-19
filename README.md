@@ -5,7 +5,7 @@
     <a href="https://discord.com/users/546000599267672074" target="blank"><img align="center"   src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&  logoColor=white" alt="discord"/></a>
 
    #### - 👨‍💻 I’m currently improving my knowledge.
-   #### - 📚 Focused in Astro🔥
+   #### - 📚 Focused in Astro and React🔥
    #### - 💪🏼 Future Goals: Learn more about full-stack.
 
 <!--<p align="center"><img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></p>-->
