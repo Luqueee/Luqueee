@@ -15,18 +15,8 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,tailwind,github,linux,py,vscode&perline=14" /></p>
 
 <h3 align="center">I'm currently learning</h1>
-<p align="center" ><img align="center" src="https://skillicons.dev/icons?i=css,js,ts,astro,react" /></p>
+<p align="center" ><img align="center" src="https://skillicons.dev/icons?i=css,js,ts,react,next,express" /></p>
 
-<h3 align="center">Technologies that I'm looking forward to learning in the future</h1>
-<p align="center" ><img align="center" src="https://skillicons.dev/icons?i=next,express,vue"/></p>
-
-
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    
-  </a>
-</p>
 
 
 
