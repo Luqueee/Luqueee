@@ -1,24 +1,62 @@
 # Hi there <img src='https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png' width='32px' height='32px'> I'm [Adrià Cabrera!](https://github.com/Luqueee/) 
-## <img src='https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif' width='32px' height:32px> **I'm a IT degree student in Spain** 
+## I'm a Frontend developer
 
-<a href="https://www.instagram.com/adria.cabreraa/" target="blank"><img align="center"   src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&  logoColor=white" alt="instagram" /></a>
-    <a href="https://discord.com/users/546000599267672074" target="blank"><img align="center"   src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&  logoColor=white" alt="discord"/></a>
+### Main Stack
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://es.react.dev/">
+        <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" />
+      </a>
+      <br>ReactJS
+    </td>
+    <td align="center" width="100">
+      <a href="https://nextjs.org/">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs" />
+      </a>
+      <br>NextJS
+    </td>
+    <td align="center" width="100">
+      <a href="https://redux.js.org/">
+        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="100">
+      <a href="https://styled-components.com/">
+        <img src="https://skillicons.dev/icons?i=styledcomponents" alt="styledcomponents" />
+      </a>
+      StyledComp
+    </td>
+    <td align="center" width="100">
+      <a href="https://tailwindcss.com/">
+        <img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwincss" />
+      </a>
+      TailwindCSS
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.postgresql.org/" >
+        <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="100"> 
+      <a href="https://www.mongodb.com/" >
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center"  width="100">
+      <a href="https://redis.io/">
+        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
+  </tr>
+</table>
 
-   #### - 👨‍💻 I’m currently improving my knowledge.
-   #### - 📚 Focused on Astro and React🔥
-   #### - 💪🏼 Future Goals: Learn more about full-stack.
 
-<!--<p align="center"><img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></p>-->
-
-<br>
-<h3 align="center">Technologies that I know👨🏻‍💻 </h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,tailwind,github,linux,py,vscode&perline=14" /></p>
 
 <h3 align="center">I'm currently learning</h1>
 <p align="center" ><img align="center" src="https://skillicons.dev/icons?i=css,js,ts,react,next,express" /></p>
-
-
-
-
-<!--icons and links-->
-
