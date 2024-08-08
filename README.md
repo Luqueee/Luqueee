@@ -10,48 +10,31 @@
       </a>
       <br>ReactJS
     </td>
-    <td align="center" width="100">
+    <td align="center" width="20%">
       <a href="https://nextjs.org/">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs" />
       </a>
       <br>NextJS
     </td>
-    <td align="center" width="100">
+    <td align="center" width="20%">
       <a href="https://redux.js.org/">
         <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
       </a>
       <br>Redux
     </td>
-    <td align="center" width="100">
+    <td align="center" width="20%">
       <a href="https://styled-components.com/">
         <img src="https://skillicons.dev/icons?i=styledcomponents" alt="styledcomponents" />
       </a>
       StyledComp
     </td>
-    <td align="center" width="100">
-      <a href="https://tailwindcss.com/">
-        <img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwincss" />
+     <td align="center" width="20%">
+      <a href="https://styled-components.com/">
+        <img src="https://skillicons.dev/icons?i=styledcomponents" alt="styledcomponents" />
       </a>
-      TailwindCSS
+      StyledComp
     </td>
-    <td align="center" width="100">
-      <a href="https://www.postgresql.org/" >
-        <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="100"> 
-      <a href="https://www.mongodb.com/" >
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center"  width="100">
-      <a href="https://redis.io/">
-        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" />
-      </a>
-      <br>Redis
-    </td>
+    
   </tr>
 </table>
 
