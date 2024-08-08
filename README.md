@@ -4,7 +4,7 @@
 ### Main Stack
 <table>
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="20%">
       <a href="https://es.react.dev/">
         <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" />
       </a>
