@@ -11,5 +11,5 @@ I have 17 years old. Currently I'm learning Frontend development. At these time 
 | --- | --- | --- | --- |
 
 ### Other tools I use
-| <div><img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" /> <p>Nodejs</p> </div> | <div><img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs" /> <p>Nextjs</p> </div> | <div><img src="https://skillicons.dev/icons?i=vscode" alt="Vscode" /> <p>Vscode</p> </div> |
-| --- | --- | --- |
+| <div><img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" /> <p>Nodejs</p> </div> | <div><img src="https://skillicons.dev/icons?i=vscode" alt="Vscode" /> <p>Vscode</p> </div> |
+| --- | --- |
