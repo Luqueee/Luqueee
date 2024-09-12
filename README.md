@@ -7,8 +7,8 @@ I have 17 years old. Currently I'm learning Frontend development. At these time 
 | --- | --- | --- | --- | 
 
 ### I'm learning
-| <div><img src="https://skillicons.dev/icons?i=react" alt="ReactJS" /> <p>React</p> </div> | <div><img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs" /> <p>Nextjs</p> </div> | <div><img src="https://skillicons.dev/icons?i=express" alt="Express" /> <p>Express</p> </div> | <div><img src="https://skillicons.dev/icons?i=typescript" alt="Typescript" /> <p>Typescript</p> </div> |
-| --- | --- | --- | --- |
+| <div><img src="https://skillicons.dev/icons?i=react" alt="ReactJS" /> <p>React</p> </div> | <div><img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs" /> <p>Nextjs</p> </div> | <div><img src="https://skillicons.dev/icons?i=express" alt="Express" /> <p>Express</p> </div> | <div><img src="https://skillicons.dev/icons?i=typescript" alt="Typescript" /> <p>Typescript</p> </div> | <div><img src="https://skillicons.dev/icons?i=go" alt="go" /> <p>Go</p> </div>
+| --- | --- | --- | --- | --- |
 
 ### Other tools I use
  | <div><img src="https://skillicons.dev/icons?i=vscode" alt="Vscode" /> <p>Vscode</p> </div> |
