@@ -1,5 +1,5 @@
 ## I'm [Adrià Cabrera!](https://github.com/Luqueee/)
-I have 17 years old. Currently I'm learning Frontend development. At these time I'm working on [Kenabot](https://github.com/Kenabot) Team.
+I have 17 years old. Currently I'm learning Frontend and bit of Backend development. At these time I'm working on [Kenabot](https://github.com/Kenabot) Team.
 
 
 ### Main Stack
