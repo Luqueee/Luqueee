@@ -1,5 +1,5 @@
 ## I'm [Adrià Cabrera!](https://github.com/Luqueee/)
-Currently I'm working on [Kenabot](https://github.com/Kenabot) Team.
+Currently I'm learning backend : ).
 
 
 ### Main Stack
