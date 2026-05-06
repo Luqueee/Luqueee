@@ -10,3 +10,7 @@ Now I'm working on [Kenabot](https://kena.bot) and [Nantic](https://nan-tic.com)
 ### I'm learning
 | <div><img src="https://skillicons.dev/icons?i=java" alt="Java" /> <p>Java</p> </div> | <div><img src="https://skillicons.dev/icons?i=mysql" alt="Mysql" /> <p>Mysql</p> </div> |
 | --- | --- |
+
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
