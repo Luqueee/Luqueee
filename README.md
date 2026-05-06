@@ -13,4 +13,24 @@ Now I'm working on [Kenabot](https://kena.bot) and [Nantic](https://nan-tic.com)
 
 
 <!-- readme: contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/Luqueee">
+                    <img src="https://avatars.githubusercontent.com/u/117453656?v=4" width="100;" alt="Luqueee"/>
+                    <br />
+                    <sub><b>Adrià Cabrera</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/MikeWorldYt">
+                    <img src="https://avatars.githubusercontent.com/u/118069844?v=4" width="100;" alt="MikeWorldYt"/>
+                    <br />
+                    <sub><b>Miguel Diaz</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: contributors -end -->
