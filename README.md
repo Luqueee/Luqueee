@@ -1,18 +1,29 @@
-## I'm [Adrià Cabrera!](https://github.com/Luqueee/)
-Currently I'm learning backend : )
+# Hi, I'm Luqueee 👋
 
-Now I'm working on [Kenabot](https://kena.bot) and [Nantic](https://nan-tic.com)
+I work with **React Router, TypeScript, Go, PostgreSQL, and MongoDB**. I'm currently studying **Java**.
 
-### Main Stack
-|  <div><img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs" /> <p>Nextjs</p> </div> | <div><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /> <p>Tailwind</p> </div> | <div><img src="https://skillicons.dev/icons?i=express" alt="Express" /> <p>Express</p> </div> | <div><img src="https://skillicons.dev/icons?i=nestjs" alt="Nestjs" /> <p>Nestjs</p> </div> | <div><img src="https://skillicons.dev/icons?i=typescript" alt="Typescript" /> <p>Typescript</p> </div> | <div><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /> <p>MongoDB</p> </div> |<div><img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" /> <p>Postgres</p> </div> |  <div><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /> <p>Redis</p> </div> |  <div><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /> <p>Docker</p> </div> |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+## Featured projects
 
-### I'm learning
-| <div><img src="https://skillicons.dev/icons?i=java" alt="Java" /> <p>Java</p> </div> | <div><img src="https://skillicons.dev/icons?i=mysql" alt="Mysql" /> <p>Mysql</p> </div> |
-| --- | --- |
+### [Mole](https://github.com/Luqueee/mole)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+**My daily driver for remote development.** I use mole every day to bring services from remote machines to my own `localhost`. It forwards ports through a single SSH connection, discovers new services, and keeps running in the background.
+
+```sh
+mole up --remote dev --auto-discover -d
+```
+
+### [Kivgraph](https://github.com/Luqueee/kivgraph)
+
+**Explore code through its relationships.** Kivgraph is a local MCP server that builds a semantic graph across repositories. It helps answer questions about references, dependencies, cross-repository consumers, and change impact.
+
+---
+
+A few unfinished research projects:
+
+- **AI-agent observability — [Tracepress](https://github.com/Luqueee/tracepress):** a local-first Rust runtime for observing agent traffic and studying context use.
+- **AI-driven browser testing — [Jolty](https://github.com/Luqueee/jolty):** an experimental Playwright framework with a local decision model for browser actions.
+- **Streaming systems — [LanPlay](https://github.com/Luqueee/lanplay):** low-latency Windows-to-macOS streaming, tested across real hardware and Wi-Fi.
+
+---
+
+You can also find my work on [KenaBot](https://kena.bot) and [Nantic](https://nan-tic.com), or visit [my website](https://luqueee.dev).
